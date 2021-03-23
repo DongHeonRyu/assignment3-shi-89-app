@@ -5,7 +5,7 @@ import InventroyDry85 from "./Components/InventroyDry85/InventroyDry85";
 function App(props) {
   return (
     <div className="container">
-      <h1 class="text-center" >Assignment #3 - Dongheon Ryu (300306185)</h1>
+      <h1 className="text-center" >Assignment #3 - Dongheon Ryu (300306185)</h1>
       <div className="row">
         <div className="col-8">
           <InventroyDry85 />
